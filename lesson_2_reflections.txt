@@ -57,3 +57,14 @@ in my head about which branch (master or coins) should be checked out when
 I run the merge. Does that make a difference? I tried loading the index
 page, but I don't see any color. I'm not sure if this was the expected
 result or not. What was supposed to happen?
+
+In my seventh reflection, I was asked to list the pros and cons of auto
+merging versus manual merging.
+
+I think the answer here is that if we were to program git to do auto
+merging all the time, it would require a great deal of code and AI, and
+even after that git might still make mistakes. I think it makes sense
+that git should quickly check to see if it can do the merge automatically
+and if not, let the user make the change.
+
+
