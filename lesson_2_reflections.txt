@@ -27,4 +27,14 @@ careful and once I have only logical change complete, stage only those
 files that are relevant to that change. I can then add other files in 
 groups that correspong to each logical change.
 
+In my fourth reflection, I was asked what are some situations when branches
+would be helpful in keeping your history organized? How would branches
+help?
+
+My answer is that by having separate branches for each line of development,
+I suppose that all the commit messages would only reside in each branch.
+I could then develop as many independent lines as I wanted and each would
+contain its own git log messages and not be cluttered up with other commit
+messages from other branches.
+
 
