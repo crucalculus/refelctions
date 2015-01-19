@@ -49,4 +49,11 @@ as you don't make any changes. If you decide you want to make changes, I
 think it makes sense to go ahead and create a new branch right then and there.
 Otherwise, the changes and commits you make may become unreachable.
 
-
+In my sixth reflection, I was asked about the result of doing a merge.
+In this part of the lesson, I merged the coins branch and the master branch.
+I will be honest and say that this was difficult for me to visualize. I'm
+not exactly sure I understand what's happened. There is this still a question
+in my head about which branch (master or coins) should be checked out when
+I run the merge. Does that make a difference? I tried loading the index
+page, but I don't see any color. I'm not sure if this was the expected
+result or not. What was supposed to happen?
