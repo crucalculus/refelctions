@@ -17,4 +17,10 @@ done being automatically pulled in to my local repo. Also, I want to be sure
 that I have things working locally the way I want before I decide to share
 my updates.
 
+The third reflection asks me to describe the differences between forks,
+clones, and branches. A fork is a copy on the github server of another
+repo. A clone is a copy from the github server remote onto my local computer,
+and a branch is a copy of the local repo that diverges from the master
+branch.
+
 
