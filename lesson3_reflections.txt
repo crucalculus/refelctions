@@ -5,3 +5,16 @@ repo rather than keep everything local.
 
 The obvious answer is that putting stuff into a github repo allows others to look at what I've
 done, and perhaps contribute in some way.
+
+The second reflection asks me to consider why I would want to always pull
+changes from a remote rather than having git automatically stay up to date
+with the remote history.
+
+I think the answer here is that there would be times I would want to complete
+work locally on a project without having to worry about if someone else
+pushed to the github repo. I don't want other changes that other people have
+done being automatically pulled in to my local repo. Also, I want to be sure
+that I have things working locally the way I want before I decide to share
+my updates.
+
+
