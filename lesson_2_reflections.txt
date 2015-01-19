@@ -37,4 +37,16 @@ I could then develop as many independent lines as I wanted and each would
 contain its own git log messages and not be cluttered up with other commit
 messages from other branches.
 
+In my fifth reflection, I was asked how diagrams help to visualize branch
+structure.
+
+I think the main purpose of a diagram would be to find any unreachable
+branches, since it seems like those are usually a bad idea. It would
+also help me to visualize each commit's parent and help to trace
+the commits in terms of reachability. When we checked out a previous
+commit, we get the DETACHED HEAD message. It seems like this is ok, as long
+as you don't make any changes. If you decide you want to make changes, I
+think it makes sense to go ahead and create a new branch right then and there.
+Otherwise, the changes and commits you make may become unreachable.
+
 
