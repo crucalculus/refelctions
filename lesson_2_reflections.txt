@@ -1,0 +1,20 @@
+In Lesson 2, my first reflection asked to consider what happens
+when you initialize a repo? Why do you need to do it?
+
+I think the answer is that git creates the .git directory and perhaps
+does a scan of the directory to see what files are present so that it
+can report back any untracked files when I do a git status. The reason
+I need to run git init is that without that .git directory, I wouldn't
+know how git would manage the repo.
+
+In my second reflection, I was asked how the staging area is different
+from the working directory and the repo? What value do I think it offers?
+
+The answer is the staging area is similar to a directory, but contains
+just the files I want to add to each commit. Having this separate area
+gives me a great deal of control over what goes into each commit. Without
+the staging area, I'm not sure how I would manage the ability of adding
+only some of the files in a working directory. I'd be forced to add all
+the files all of the time, even though I may only have changed a few files.
+
+
