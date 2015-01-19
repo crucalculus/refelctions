@@ -1,1 +1,7 @@
 lesson3_reflections.txt
+
+The first reflection in lesson3 asks me to comment on when I would want to use a remote
+repo rather than keep everything local.
+
+The obvious answer is that putting stuff into a github repo allows others to look at what I've
+done, and perhaps contribute in some way.
