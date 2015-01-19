@@ -17,4 +17,14 @@ the staging area, I'm not sure how I would manage the ability of adding
 only some of the files in a working directory. I'd be forced to add all
 the files all of the time, even though I may only have changed a few files.
 
+In my third reflection, I was asked how can I use the staging area
+to make sure I have one commit per logical change?
+
+I suppose the answer is that as I modify and work on a repo, I'm going
+to be making changes to many files and those changes might be different.
+In order to only commit one logical change per commit, I have to be
+careful and once I have only logical change complete, stage only those
+files that are relevant to that change. I can then add other files in 
+groups that correspong to each logical change.
+
 
