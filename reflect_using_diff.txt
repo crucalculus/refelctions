@@ -1,0 +1,67 @@
+This is my reflection file for the first lesson
+about using diff to find bugs.
+
+Not sure what they want me to reflect about,
+but in my opinion it seems that diff makes the process
+of comparing two files much easier. The computer is
+finding the differences and will be much faster and much
+more efficient than human eyes looking at a file.
+
+In the second reflection, I was asked to look at how having
+easy access to the entire history of a file makes me a more
+efficient programmer in the long term.
+
+I think this has to do with the ability to look back and
+correct bugs that you introduce along the way. You can always
+look back at previous versions and revert to the last good
+working copy. The other reason it would be nice to have all
+the old versions would be to study how you improved as a
+programmer over time. I think this is somewhat less usefull,
+however I mention it here just for completeness.
+
+In the third reflection, I was asked to reflect on manual
+commits and the size of each. The course talks about one
+logical change per commit. In previously working with git,
+I can say that writing meaningful commit messages is sometimes
+tricky for me to do.
+
+The other thing mentioned was about the pros and cons of
+choosing when to commit. I think this is pretty obvious.
+If the commit happens automatically, there is really no control
+over what changes are part of the commit.
+
+In the fourth reflection, I was asked to reflect on multi-file
+commits. Why do I think some version controls systems, like Git,
+allow saving multiple files in one commit? I think the reason
+is to allow the user the flexibility of putting one logical change
+in the same commit. One logical change might involve mutliple files,
+and it is important that the programmer be able to keep track of
+what has happened in the most meaningful way possible.
+
+In the fifth reflection, I was asked to reflect about using
+git to view history. How can I use the commands git log and
+git diff to view the history of files? The answer is that I use
+git log to find the appropriate SHA-1 hash id for the commit
+and then I use git diff with the two SHA-1 hasd ids to see what
+actually changed in the files.
+
+In the sixth reflection, I was asked to reflect about how using
+version control might make me more confident to make changes that
+could break something? I think the answer here is that since git
+saves all previous versions in the form of commits, I can have
+the confidence that I can re-wind the files in my repo and easily
+locate the commit that introduced a bug. If I'm careful about how
+I put together each commit, then locating the bug should be pretty
+easy. Plus, I know that all of my other work is saved in other
+commits, so once I figure out where the bug is, I can also bring
+in as many of the other changes that I want.
+
+In the seventh reflection, I was asked to reflect on how I want
+to use git in the future. Since I already have my Advanced Calc
+projects in a git repo, and I plan to move more of my course
+materials into git, I think I have a pretty good idea of how I
+want to use git. The only question is whether git is appropriate
+for latex files, and exactly how I want to track changes to files
+like exams and quizzes. Perphaps even my idea to run a sql database
+with latex questions that can be pulled into new quizzes and exams.
+
