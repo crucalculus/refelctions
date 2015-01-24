@@ -32,4 +32,16 @@ between my current local copy and the remote copy, I don't have to send
 info on the internet to do it, since all the data I would need to do the
 diff is stored locally.
 
+The fifth reflection asks me to reflect on collaboration on git and github.
+How would I contribute without using Git or GitHub? What would be easier,
+and what would be harder?
+
+This seems like a tricky thing to answer. Without git or github, I suppose
+I would be using some sort of file system like DropBox with others. This
+would be really difficult, because if we were all working on the same file in
+the same directory, each time we saved the file, everyone's local copy would
+immediately change. In fact, I think I have seen messages from DropBox
+where there is some sort of conflict. DropBox just creates multiple copies
+of the file and names them as conflicting copy.
+
 
