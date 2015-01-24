@@ -23,4 +23,13 @@ repo. A clone is a copy from the github server remote onto my local computer,
 and a branch is a copy of the local repo that diverges from the master
 branch.
 
+The fourth refelction asks me to reflect on the benefits of having a copy
+of the last known state of the remote stored locally.
+
+The answer seems pretty clear at this point - having a local copy avoids
+the need to internet access to the remote repo. So if I want to do a diff
+between my current local copy and the remote copy, I don't have to send
+info on the internet to do it, since all the data I would need to do the
+diff is stored locally.
+
 
